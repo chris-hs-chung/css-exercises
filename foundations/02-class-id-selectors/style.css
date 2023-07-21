@@ -1,0 +1,18 @@
+.odd {
+    background-color: rgb(243, 198, 215);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#loner {
+    color: rgb(24, 24, 128);
+    font-size: 36px;
+}
+
+.font24 {
+    font-size: 24px;
+}
+
+#loner2 {
+    background-color: rgb(182, 230, 182);
+    font-weight: bold;
+}
